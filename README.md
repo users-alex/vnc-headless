@@ -1,2 +1,0 @@
-# vnc-headless
-headless vnc
